@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+output/
+foto/*
+!foto/.gitkeep
+preview/
+debug_*
+*.heic
+*.HEIC
+!watermark.png
