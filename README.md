@@ -39,7 +39,7 @@ python3 --version
 ### 2. Clone repository
 
 ```bash
-git clone https://github.com/USERNAME/watermark.git
+git clone https://github.com/nzsui/watermark.git
 cd watermark
 ```
 
@@ -90,7 +90,7 @@ Centang **"Add Python to PATH"** saat install.
 Di PowerShell / CMD:
 
 ```bat
-git clone https://github.com/USERNAME/watermark.git
+git clone https://github.com/nzsui/watermark.git
 cd watermark
 python -m venv .venv
 .venv\Scripts\activate
